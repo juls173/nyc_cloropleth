@@ -12,7 +12,7 @@ libraries used:
 - zipfile to extract shapefile file from .zip
 
 the resulting maps:
-![image](https://github.com/user-attachments/assets/68c19d5f-a865-4f3d-8c07-6f7be966131e)
+<img src="https://github.com/user-attachments/assets/68c19d5f-a865-4f3d-8c07-6f7be966131e" width="700" height="700">
 
 ![image](https://github.com/user-attachments/assets/1ff6a092-6544-4ac9-9554-f7ebf49b647c)
 
